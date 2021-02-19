@@ -3,7 +3,7 @@
 This project uses a combination of jquery and vanilla javascript. The page still works if js is disabled. All errors except for the register button "Please fix errors" error are displayed.
 
 ### Sections
-
+    
 Every section is validated and will throw at least one error. Text inputs are checked when blurred, and all are checked when the register button is clicked.
 
 ### Basic Info
